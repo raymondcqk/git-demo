@@ -1,2 +1,4 @@
 shopping-cart:
 	max: 100
+shopping-list:
+	max:1000
