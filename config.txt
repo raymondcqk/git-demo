@@ -1,3 +1,5 @@
 shopping-cart:
 	max: 100
 	sort: name
+shopping-list:
+	max:1000
