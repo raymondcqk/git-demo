@@ -17,4 +17,10 @@
 	13610909203
 	天堂岛24号
 
+美化：
+css{
+	color:#eeeeee;
+	font-size: 100px;
+}
+
 	
